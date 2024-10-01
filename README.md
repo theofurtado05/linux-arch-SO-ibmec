@@ -1,3 +1,6 @@
+Grupo: Théo Furtado Maurício e João Lucas Curvelo
+
+
 # Relatório de Configuração do Arch Linux
 
 Este README documenta os passos e as principais configurações realizadas durante a inicialização e configuração do Arch Linux em uma arquitetura ARM64 (virtualizada usando QEMU).
